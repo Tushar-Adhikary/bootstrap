@@ -1,0 +1,38 @@
+.navbar{
+	border-bottom:3px solid #008ed6
+}
+
+
+
+#home-section .fa{
+	background:#fff;
+	color:#008ed6;
+	padding:5px;
+	font-size:25px;
+	border-radius:5px;
+}
+#home-section{
+	background-image:url("../img/create.jpeg");
+	min-height:700px;
+	background-size:cover;
+}
+
+#home-section .dark-overlay{
+	background:rgba(0,0,0,0.7);
+	min-height:700px;
+	background-attachment:fixed;
+}
+
+#home-section .home-inner{
+	padding-top:150px;
+}
+
+#showcase .fa{
+	background:#333;
+	color:#fff;
+	padding:5px;
+	font-size:25px;
+	border-radius:5px;
+}
+
+
